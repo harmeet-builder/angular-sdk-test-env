@@ -37,7 +37,7 @@ export class AppComponent {
       model: 'page',
       apiKey: 'ad30f9a246614faaa6a03374f83554c9',
       userAttributes: {
-        urlPath: '/angular-test',
+        urlPath: '/portfolio',
       },
     });
 
